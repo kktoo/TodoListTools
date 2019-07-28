@@ -1,7 +1,5 @@
 # TodoListTools（TodoList辅助工具）
 
----
-
 Automated generation of date lists with weekly paragraphs.
 
 这是一个为todo list提供的辅助工具，按照年月日和星期，以每周为小段落，以每月为大段落，自动生成日程日历文本，方便填写。
